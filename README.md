@@ -5,7 +5,7 @@ Hospital App (MVC & Spring Security)</h1>
 <h4>1- Login page</h4>
 <img src="captures/Capture1.PNG" alt="">
 <br>
-<h4>Security.java</h4>
+<h4>SecurityConfig.java</h4>
 <img src="captures/Capture5.PNG" alt="">
 <br>
 <h4>SecurityController.java</h4>
